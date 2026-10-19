@@ -1,7 +1,0 @@
-input,value,type,source
-Global electric car sales in 2024,17000000,data,IEA Global EV Outlook 2025
-Share of EV sales in the small low-cost city car segment,0.12,assumption,Own assumption (see report)
-Seagull share of that segment,0.30,assumption,Own assumption (see report)
-Years the Seagull nameplate stays on sale,7,assumption,Own assumption (see report)
-China electric car sales in 2024 (context),11000000,data,IEA Global EV Outlook 2025
-Seagull 2025 output made in China (context),310956,data,Wikipedia BYD Seagull production table
